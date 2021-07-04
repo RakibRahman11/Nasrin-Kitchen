@@ -4,7 +4,8 @@
     #cover-photo{
         height: 360px;
         width: 640px;
-        margin: 10px 25%;
+        margin: 1px 25% 10px 25%;
+        background-image: url(Photo/cover\ bg.jpg);
     }
     .order-now{
         text-decoration: none;
@@ -16,11 +17,19 @@
     }
     .flex-display{
         display: flex;
+        margin:10px 20px;
     }
     .shadow{
         margin: 20px;
-        box-shadow: 5px 10px rgba(255, 0, 0, 0.418);
+        box-shadow: 5px 8px 5px 8px rgba(255, 0, 0, 0.418);
         text-align: justify;
         width: 25%;
         padding: 10px 15px;
+    }
+    #footer{
+        text-align: center;
+    }
+    #facebook{
+        height: 30px;
+        width: 30px;
     }
