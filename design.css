@@ -1,0 +1,22 @@
+    body{
+        font-family: 'Poppins', sans-serif;
+    }
+    #Cover-photo{
+        height: 25%;
+        width: 50%;
+        margin: 10px 25%;
+    }
+    .order-now{
+        text-decoration: none;
+        background-image:linear-gradient(red,orange);
+        padding: 5px 10px;
+        border-radius: 10px;
+        background-repeat: no-repeat;
+    }
+    .flex-display{
+        display: flex;
+    }
+    .shadow{
+        margin: 20px;
+        box-shadow: 5px 10px red;
+    }
